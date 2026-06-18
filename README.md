@@ -1,4 +1,4 @@
-# MPKMod 26.1 — Minr Friendly, No Red Glow
+# MPKMod 26.1 — Minr Friendly
 
 A custom build of [MPKMod2](https://github.com/MPKMod/MPKMod2) for **Minecraft 26.1 (Fabric)**, set up to work on **Minr**.
 
